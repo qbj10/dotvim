@@ -11,6 +11,7 @@ install
 * ```git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/vundle```
 
 * ```ln -s ~/.vim/vimrc ~/.vimrc```
+* ```download https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim to ~/.vim/autoload/plug.vim ```
 
 * Launch vim and run ```:PluginInstall```
 
